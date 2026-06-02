@@ -2,4 +2,4 @@ numpy
 pandas
 matplotlib
 folium
-meteostat==2.1.4
+meteostat==1.7.3
